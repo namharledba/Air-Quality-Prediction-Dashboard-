@@ -1,1 +1,1 @@
-# Air-Quality-Prediction-Dashboard-
+# Air Quality Prediction Dashboard
