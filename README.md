@@ -3,7 +3,7 @@
 OVERVIEW
 The Air Quality Monitoring and Prediction System is a machine learning and data analysis project designed to analyze environmental air quality data, predict pollution levels, classify air quality conditions, and provide health recommendations based on predicted air quality status.
 
-made by :
+Collaborators :
 
 1- Mahmoud Ashraf
 
