@@ -7,11 +7,11 @@ made by :
 
 1- Mahmoud Ashraf
 
-2- Shahd 
+2- Shahd Salah
 
 3- Mahmoud sadek
 
-4- Farah 
+4- Farah Hani
 
 5- Abdelrahman Mohamed
 
@@ -85,7 +85,7 @@ streamlit run app.py
 
 or 
 
-through the link :
+through the link : https://namharledba-air-quality-prediction-dashboard--app-m6lycc.streamlit.app/
 
 DASHBOARD SECTIONS
 - Dashboard
