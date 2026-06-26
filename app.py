@@ -21,14 +21,14 @@ if file is not None:
     df = pd.read_csv(file)
     df.replace(-200, np.nan, inplace=True)
 
-obj_cols = df.select_dtypes(include="object").columns
-num_cols = df.select_dtypes(include=np.number).columns
+    obj_cols = df.select_dtypes(include="object").columns
+    num_cols = df.select_dtypes(include=np.number).columns
 
-for col in obj_cols:
-    if df[col].isnull().any():
-        df[col] = df[col].fillna(df[col].mode()[0])
+    for col in obj_cols:
+        if df[col].isnull().any():
+            df[col] = df[col].fillna(df[col].mode()[0])
 
-df[num_cols] = df[num_cols].fillna(df[num_cols].median())
+    df[num_cols] = df[num_cols].fillna(df[num_cols].median())
 
     def air_quality_category(row):
         score = 0
