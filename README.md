@@ -9,7 +9,7 @@ The **Air Quality Intelligence & Prediction System** is an advanced end-to-end d
 1. **Mahmoud Ashraf**
 2. **Shahd hani**
 3. **Mahmoud Sadek**
-4. **Farah salah**
+4. **Farah Saleh**
 5. **Abdelrahman Mohamed**
 
 ---
